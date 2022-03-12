@@ -45,7 +45,7 @@ En el mismo pódras agregar estilos utilizando css, bien sea con las clases pred
 
 <ul>
   <li><a href="https://drive.google.com/file/d/1Jn45Vpxb8BKuipOjWGZxLWFNZLWLzIpX/view?usp=sharing" target="_blank">Presentación o PPT de "Proximamente".</a></li>
-  <li><a href="https://drive.google.com/file/d/1Jn45Vpxb8BKuipOjWGZxLWFNZLWLzIpX/view?usp=sharing" target="_blank">Video de VIMEO "Proxímamente".</a></li>
+  <li><a href="https://vimeo.com/423652551" target="_blank">Video de VIMEO "Proxímamente".</a></li>
 </ul>
 
 
